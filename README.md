@@ -1,12 +1,13 @@
 # VS Code-Dark-Npp
 VS Code Dark Theme for Notepad++
 
-This is a loose replica of the VS Code's Dark theme in Notepad++. It was created to ease switching between files opened in Visual Studio and Notepad++. It is actually just enhanced from https://github.com/cydh/VS2015-Dark-Npp (credits also to original version https://github.com/SeanCline/Npp-VS2012-Dark) to improve reading, increasing contrast to a comfortable level and differing more keyword types. I also took a bit from Zenburn theme and tweaked a bit to fill some languages missing from the original theme.
+This is a loose replica of the VS Code's Dark theme in Notepad++, I added a few missing word styles, particularly, support for python 3+ f"string" format.
+Based on Hellon Terna's https://github.com/hellon8/VS2019-Dark-Npp, which is based on https://github.com/cydh/VS2015-Dark-Npp (credits also to original version https://github.com/SeanCline/Npp-VS2012-Dark) to improve reading, increasing contrast to a comfortable level and differing more keyword types.
 
 Installation
 --------------------------
 0. (Optional) If you haven't already, turn on Notepad++ dark mode in *Preferences -> Dark Mode* to a better look and feel.
-1. **Right Click** [`HERE`](https://raw.githubusercontent.com/hellon8/VS2019-Dark-Npp/master/VS2019-Dark.xml) and select **Save As** to download the theme.
+1. **Right Click** [`HERE`](https://github.com/roie-r/VS-Dark-NPP/blob/master/VS-Code-Dark.xml) and select **Save As** to download the theme.
 2. Go to **%APPDATA%\Notepad++**.
 3. Open **themes** folder, create a new folder named **themes** if it doesn't exists.
 4. Place downloaded **.xml** file inside the folder.
