@@ -168,7 +168,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="0" fgColor="DCDCDC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORDS" styleID="2" fgColor="A59FE8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="LABEL" styleID="3" fgColor="E49A63" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LABEL" styleID="3" fgColor="BD8057" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMAND" styleID="5" fgColor="EAEBCF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="6" fgColor="98DAFE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -681,19 +681,19 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         </LexerType>
         <LexerType name="json" desc="JSON" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="FFFFBB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="1" fgColor="32EB87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING" styleID="2" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING EOL" styleID="3" fgColor="FAA569" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="PROPERTY NAME" styleID="4" fgColor="B0FFE8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="1" fgColor="D6D5AD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="2" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING EOL" styleID="3" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="PROPERTY NAME" styleID="4" fgColor="CCD0DD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ESCAPE SEQUENCE" styleID="5" fgColor="E6466F" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="LINE COMMENT" styleID="6" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="BLOCK COMMENT" styleID="7" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="8" fgColor="E3CEAB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="8" fgColor="DEDEDE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="URI" styleID="9" fgColor="65C9FE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMPACT IRI" styleID="10" fgColor="55B9EE" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="KEYWORD" styleID="11" fgColor="E67DDC" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="COMPACT IRI" styleID="10" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="KEYWORD" styleID="11" fgColor="839DDA" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="LD KEYWORD" styleID="12" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
-            <WordsStyle name="ERROR" styleID="13" fgColor="FFFF80" bgColor="C4001E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ERROR" styleID="13" fgColor="FFFF80" bgColor="42000A" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
             <WordsStyle name="DEFAULT" styleID="31" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -747,11 +747,11 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="FUNC1" styleID="13" fgColor="FFF2BF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
-            <WordsStyle name="FUNC2" styleID="14" fgColor="FFF2BF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1">param @projectDescription projectDescription @param</WordsStyle>
-            <WordsStyle name="FUNC3" styleID="15" fgColor="FFF2BF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="FUNC1" styleID="13" fgColor="DDDEB4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="FUNC2" styleID="14" fgColor="DDDEB4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1">param @projectDescription projectDescription @param</WordsStyle>
+            <WordsStyle name="FUNC3" styleID="15" fgColor="DDDEB4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="EAEAEA" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="LABEL" styleID="20" fgColor="FFF2BF" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="LABEL" styleID="20" fgColor="C8E2AF" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
         <LexerType name="makefile" desc="Makefile" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -1026,7 +1026,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="NUMBER" styleID="2" fgColor="8ABDCE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="3" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="KEYWORDS" styleID="5" fgColor="89A3E7" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">bool long int char</WordsStyle>
+            <WordsStyle name="KEYWORDS" styleID="5" fgColor="89A3E7" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">bool long int char None True False</WordsStyle>
             <WordsStyle name="TRIPLE" styleID="6" fgColor="AF9B54" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="AF9B54" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASS NAME" styleID="8" fgColor="A9B5A4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -1488,7 +1488,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="696969" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FFFFFF" bgColor="264F78" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="930000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="3A3A3A" fgColor="E4E4E4" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="3A3A3A" fgColor="EAEAEA" fontStyle="0" fontSize="" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="DCDCDC" bgColor="1A3551" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" fgColor="DCDCDC" bgColor="1A3551" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C3C3C3" bgColor="112435" fontSize="" fontStyle="0" />
