@@ -201,8 +201,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="OPERATOR" styleID="10" fgColor="B4B4B4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -241,8 +241,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -351,7 +351,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="IDENTIFIER" styleID="6" fgColor="12C79E" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="UNKNOWN_IDENTIFIER" styleID="7" fgColor="8DA6CE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VALUE" styleID="8" fgColor="FF8448" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="9" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="9" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ID" styleID="10" fgColor="409FFF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IMPORTANT" styleID="11" fgColor="FFFFB9" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DIRECTIVE" styleID="12" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -606,12 +606,12 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="GARBAGE" styleID="18" fgColor="333333" bgColor="F18C96" fontName="" fontStyle="2" fontSize="" />
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="74F1AC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="DAE7E2" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SECTION" styleID="2" fgColor="62BCFF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFVAL" styleID="4" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="KEY" styleID="5" fgColor="9F9FEC" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="KEY" styleID="5" fgColor="9F9FEC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="inno" desc="InnoSetup" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="F5F5F5" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -656,8 +656,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="SYMBOLS" styleID="50" fgColor="C0C0C0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRINGEOL" styleID="51" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="52" fgColor="D96D68" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="42" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE" styleID="43" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="42" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="43" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="44" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="javascript.js" desc="JavaScript" ext="">
@@ -669,9 +669,9 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING" styleID="6" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING RAW" styleID="20" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="FAA569" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="C0C0C0" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="C0C0C0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="REGEX" styleID="14" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="REGEX" styleID="14" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -800,8 +800,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="GLOBAL" styleID="12" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
             <WordsStyle name="FUNCTION" styleID="13" fgColor="DBDBDB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
             <WordsStyle name="SYSTEM STORED PROC" styleID="14" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="4" fgColor="CB4141" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="5" fgColor="818181" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
@@ -979,7 +979,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         </LexerType>
         <LexerType name="powershell" desc="PowerShell" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="2" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="3" fgColor="FAA569" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="32EB87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -999,9 +999,9 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DEFVAL" styleID="4" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SECTION" styleID="2" fgColor="8000FF" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="KEY" styleID="5" fgColor="0000FF" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="DEFVAL" styleID="4" fgColor="DDCA80" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="SECTION" styleID="2" fgColor="6CB6FF" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="KEY" styleID="5" fgColor="6CB6FF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="purebasic" desc="PureBasic" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="DCDCCC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
