@@ -693,7 +693,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMPACT IRI" styleID="10" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORD" styleID="11" fgColor="839DDA" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="LD KEYWORD" styleID="12" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
-            <WordsStyle name="ERROR" styleID="13" fgColor="FFFF80" bgColor="42000A" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ERROR" styleID="13" fgColor="EEECA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
             <WordsStyle name="DEFAULT" styleID="31" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -983,12 +983,12 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING" styleID="2" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="3" fgColor="FAA569" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="32EB87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VARIABLE" styleID="5" fgColor="65C9FE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">True False</WordsStyle>
+            <WordsStyle name="VARIABLE" styleID="5" fgColor="A5DFFE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">True False</WordsStyle>
             <WordsStyle name="OPERATOR" styleID="6" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="8" fgColor="E67DDC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">try catch throw exit</WordsStyle>
             <WordsStyle name="CMDLET" styleID="9" fgColor="FFFFBB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2">mkdir</WordsStyle>
             <WordsStyle name="ALIAS" styleID="10" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
-            <WordsStyle name="FUNCTION" styleID="11" fgColor="C40062" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="FUNCTION" styleID="11" fgColor="D05CFC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
             <WordsStyle name="USER KEYWORDS" styleID="12" fgColor="A0A000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
             <WordsStyle name="COMMENT STREAM" styleID="13" fgColor="00A0A0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HERE STRING" styleID="14" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -1119,11 +1119,11 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="STRING" styleID="3" fgColor="F09B87" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HEX DIGIT" styleID="4" fgColor="46EE81" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VALUE TYPE" styleID="5" fgColor="1AC898" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ADDED KEY" styleID="6" fgColor="FFFFB9" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ADDED KEY" styleID="6" fgColor="E9E8BE" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REMOVED KEY" styleID="7" fgColor="FF78B9" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="ESCAPED CHARACTERS IN STRINGS" styleID="8" fgColor="B1707C" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="GUID IN KEY PATH" styleID="9" fgColor="D2507D" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="GUID IN STRING" styleID="10" fgColor="D2507D" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ESCAPED CHARACTERS IN STRINGS" styleID="8" fgColor="F98146" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="GUID IN KEY PATH" styleID="9" fgColor="F98146" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="GUID IN STRING" styleID="10" fgColor="F98146" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PARAMETER" styleID="11" fgColor="8CE1C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATORS" styleID="12" fgColor="C0C0C0" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
