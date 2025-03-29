@@ -7,7 +7,7 @@ Based on Hellon Terna's https://github.com/hellon8/VS2019-Dark-Npp, which is bas
 Installation
 --------------------------
 0. (Optional) If you haven't already, turn on Notepad++ dark mode in *Preferences -> Dark Mode* to a better look and feel.
-1. **Right Click** [`HERE`](https://github.com/roie-r/VS-Dark-NPP/blob/master/VS-Code-Dark.xml) and select **Save As** to download the theme.
+1. **Right Click** [`HERE`](https://raw.githubusercontent.com/roie-r/VS-Dark-NPP/refs/heads/master/VS-Code-Dark.xml) and select **Save As** to download the theme.
 2. Go to **%APPDATA%\Notepad++**.
 3. Open **themes** folder, create a new folder named **themes** if it doesn't exists.
 4. Place downloaded **.xml** file inside the folder.
