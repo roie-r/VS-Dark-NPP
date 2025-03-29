@@ -1744,7 +1744,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="C3C3C3" bgColor="112435"></WidgetStyle>
         <WidgetStyle name="Multi-edit carets color" styleID="2069" fgColor="C3C3C3" bgColor="112435"></WidgetStyle>
         <WidgetStyle name="Edge colour" styleID="0" fgColor="888A85" bgColor="1E1E1E"></WidgetStyle>
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="7F7F7F" bgColor="1E1E1E" fontName="" fontStyle="0"></WidgetStyle>
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="7F7F7F" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="9"></WidgetStyle>
         <WidgetStyle name="Bookmark margin" styleID="0" bgColor="606060"></WidgetStyle>
         <WidgetStyle name="Change History margin" styleID="0" bgColor="606060"></WidgetStyle>
         <WidgetStyle name="Fold" styleID="0" fgColor="787878" bgColor="1E1E1E"></WidgetStyle>
