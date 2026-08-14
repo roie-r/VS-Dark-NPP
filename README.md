@@ -18,8 +18,10 @@ Installation
 
 Screenshot
 ----------
+PYTHON  
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/python.png "PYTHON")  
 JSON  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/Json.png "JSON")  
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/json.png "JSON")  
 CSV (For this, you will need the [`CSV Lint`](https://github.com/BdR76/CSVLint) plugin)  
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/csv.png "CSV")  
 Javascript  
