@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--//
 
 Style name:  VS Code Dark Theme for Notepad++
@@ -8,14 +8,14 @@ Languages:   Python, lua, C, C++, C#, Java, XML, json, yaml, but should work wit
 Note:        I don't claim any ownership of this theme. It is merely a replica of another.
 
 //-->
-<NotepadPlus modelDate="20251203">
+<NotepadPlus modelDate="20260525" modelFileLastModifiedDate="20260612">
     <LexerStyles>
         <LexerType name="actionscript" desc="ActionScript" ext="">
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="FUNCTION" styleID="20" fgColor="8DA6CE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type2">ContentScroller</WordsStyle>
+            <WordsStyle name="FUNCTION" styleID="20" fgColor="8DA6CE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type2"></WordsStyle>
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type1">onMotionChanged onMotionFinished Tween ImagesStrip ContentScroller mx transitions easing Sprite Point MouseEvent Event BitmapData Timer TimerEvent addEventListener event x y height width</WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type1"></WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="A6CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -50,6 +50,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="LABEL" styleID="9" fgColor="569CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT LINE" styleID="10" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="ILLEGAL" styleID="11" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CHARACTER EOL" styleID="6" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="STRING EOL" styleID="8" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="asn1" desc="ASN.1" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -64,14 +66,14 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="TYPES" styleID="9" fgColor="93E0E3" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="type2"></WordsStyle>
             <WordsStyle name="OPERATORS" styleID="10" fgColor="9F9D6D" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
         </LexerType>
-        <LexerType name="asp" desc="asp" ext="">
+        <LexerType name="asp" desc="asp" ext="asp">
             <WordsStyle name="DEFAULT" styleID="81" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT LINE" styleID="82" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="NUMBER" styleID="83" fgColor="B5CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="WORD" styleID="84" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
             <WordsStyle name="STRING" styleID="85" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="IDENTIFIER" styleID="86" fgColor="DA86E6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="ASP SYBOL" styleID="15" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="ASP SYMBOL" styleID="15" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="SCRIPT TYPE" styleID="16" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="USER KEYWORDS 1" styleID="216" fgColor="3333B0" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle1"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 2" styleID="217" fgColor="3333B0" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle2"></WordsStyle>
@@ -81,6 +83,10 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="USER KEYWORDS 6" styleID="221" fgColor="3333B0" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 7" styleID="222" fgColor="3333B0" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 8" styleID="223" fgColor="3333B0" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8"></WordsStyle>
+            <WordsStyle name="COMMENTLINE" styleID="82" fgColor="6A9955" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
+            <WordsStyle name="STRINGEOL" styleID="87" fgColor="F44747" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="ASPSYMBOL" styleID="15" fgColor="C586C0" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="SCRIPTTYPE" styleID="16" fgColor="569CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="asm" desc="Assembler" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -189,7 +195,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="KEYWORDS" styleID="2" fgColor="A59FE8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
             <WordsStyle name="LABEL" styleID="3" fgColor="BD8057" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="HIDE SYMBOL" styleID="4" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMAND" styleID="5" fgColor="EAEBCF" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="VARIABLE" styleID="6" fgColor="98DAFE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="OPERATOR" styleID="7" fgColor="ABBDCB" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -266,6 +272,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="USER KEYWORDS 6" styleID="133" fgColor="E67DDC" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 7" styleID="134" fgColor="E67DDC" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 8" styleID="135" fgColor="E67DDC" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8"></WordsStyle>
+            <WordsStyle name="STRINGRAW" styleID="20" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="cs" desc="C#" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -412,6 +419,8 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <!--WordsStyle name="EXTENDED_PSEUDOELEMENT" styleID="21" fgColor="7F7F00" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" /-->
             <WordsStyle name="MEDIA" styleID="22" fgColor="409FFF" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
             <WordsStyle name="VARIABLE" styleID="23" fgColor="DD9900" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DOUBLESTRING" styleID="13" fgColor="AAB4CE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="SINGLESTRING" styleID="14" fgColor="AAB4CE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="CSVLint" desc="CSV Linter and validator" excluded="no" ext="">
             <WordsStyle styleID="0" name="Default" fgColor="DCDCCC" bgColor="1C1C1C" fontName="Consolas" fontStyle="1"></WordsStyle>
@@ -695,11 +704,11 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="USER ATTRIBUTES2" styleID="197" fgColor="FE7298" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6"></WordsStyle>
             <WordsStyle name="USER ATTRIBUTES3" styleID="198" fgColor="FE7298" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7"></WordsStyle>
             <WordsStyle name="USER ATTRIBUTES4" styleID="199" fgColor="FE7298" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8"></WordsStyle>
-            <WordsStyle name="SGML COMMAND" styleID="22" fgColor="0000DD" bgColor="CFE2F7" fontName="" fontStyle="1" fontSize="" keywordClass="instre2"></WordsStyle>
-            <WordsStyle name="SGML 1ST PARAM" styleID="23" fgColor="0000DD" bgColor="ECF4FC" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="SGML DOUBLESTRING" styleID="24" fgColor="8000FF" bgColor="ECF4FC" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="SGML SIMPLESTRING" styleID="25" fgColor="8000FF" bgColor="CFE2F7" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="SGML BLOCK DEFAULT" styleID="31" fgColor="000000" bgColor="F2F2F2" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="SGML COMMAND" styleID="22" fgColor="0000FF" bgColor="1C1C1C" fontName="" fontStyle="3" fontSize="" keywordClass="instre2"></WordsStyle>
+            <WordsStyle name="SGML 1ST PARAM" styleID="23" fgColor="0000FF" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
+            <WordsStyle name="SGML DOUBLESTRING" styleID="24" fgColor="8000FF" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
+            <WordsStyle name="SGML SIMPLESTRING" styleID="25" fgColor="8000FF" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
+            <WordsStyle name="SGML BLOCK DEFAULT" styleID="31" fgColor="F5F5F5" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="ihex" desc="Intel HEX" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -883,7 +892,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type1"></WordsStyle>
             <WordsStyle name="SPECIAL" styleID="11" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT" styleID="12" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="FUNCTION WORD2" styleID="4" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" fontSize="" keywordClass="instre2"></WordsStyle>
+            <WordsStyle name="FUNCTION WORD2" styleID="4" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="instre2"></WordsStyle>
         </LexerType>
         <LexerType name="lua" desc="Lua" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="EAEAEA" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -966,7 +975,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="IDENTIFIER" styleID="6" fgColor="5080E0" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="VARIABLE" styleID="7" fgColor="CC1166" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COL NAME" styleID="8" fgColor="808080" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="COL NAME IN []&apos;s" styleID="16" fgColor="D08000" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
+            <WordsStyle name="COL NAME IN []'s" styleID="16" fgColor="D08000" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="nim" desc="Nim" ext="">
             <WordsStyle name="WHITE SPACE" styleID="0" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1075,13 +1084,13 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="NUMBER" styleID="4" fgColor="A6CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="HEX NUMBER" styleID="8" fgColor="A6CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="DA86E6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
-            <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="STRING" styleID="10" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="ASM" styleID="14" fgColor="8DA6CE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="CHARACTER" styleID="12" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="OPERATOR" styleID="13" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MULTILINESTRING" styleID="15" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="NUMBER" styleID="7" fgColor="A6CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="perl" desc="Perl" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1335,7 +1344,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="BINARY ( 16#{1A803F59} )" styleID="11" fgColor="32EB87" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="MONEY" styleID="12" fgColor="32EB87" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="ISSUE { #123-CD-456 }" styleID="13" fgColor="EBD6EB" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="TAG { &lt;TITLE HEIGHT=100&gt; }" styleID="14" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="TAG { &lt;TITLE HEIGHT=100> }" styleID="14" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="FILE { %/C/WINNT/SOME.DLL }" styleID="15" fgColor="DCDCCC" bgColor="333333" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="EMAIL { JOE@MAIL.DOM }" styleID="16" fgColor="DCDCCC" bgColor="333333" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="URL { FTP://THERE.DOM }" styleID="17" fgColor="DCDCCC" bgColor="333333" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1431,15 +1440,6 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="SPECIAL" styleID="11" fgColor="FFEBDD" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT" styleID="12" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="3" fontSize=""></WordsStyle>
         </LexerType>
-        <LexerType name="searchResult" desc="Search result" ext="">
-            <WordsStyle name="Default" styleID="0" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="Search Header" styleID="1" fgColor="569CD6" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
-            <WordsStyle name="File Header" styleID="2" fgColor="92CAF4" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
-            <WordsStyle name="Line Number" styleID="3" fgColor="2B91AF" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="Hit Word" styleID="4" fgColor="C8C8C8" bgColor="113D6F" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="Selected Line" styleID="5" fgColor="C8C8C8" bgColor="000000" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="Current line background colour" styleID="6" fgColor="C8C8C8" bgColor="000000" fontStyle="0" fontSize="">bool long int char</WordsStyle>
-        </LexerType>
         <LexerType name="smalltalk" desc="Smalltalk" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="STRING" styleID="1" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1534,24 +1534,27 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         </LexerType>
         <LexerType name="tcl" desc="TCL" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="F1F2F3" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type3"></WordsStyle>
+            <WordsStyle name="INSTRUCTION WORD" styleID="12" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type4"></WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="A6CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type1"></WordsStyle>
-            <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2"></WordsStyle>
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="F1F2F3" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="INSTRUCTION WORD" styleID="12" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type2"></WordsStyle>
+            <WordsStyle name="COMMENT BOX" styleID="17" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type5"></WordsStyle>
             <WordsStyle name="SUBSTITUTION" styleID="8" fgColor="808080" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="COMMENT BOX" styleID="20" fgColor="57A64A" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLOCK COMMENT" styleID="18" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type6"></WordsStyle>
+            <WordsStyle name="USER4" styleID="19" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" keywordClass="type7"></WordsStyle>
+            <WordsStyle name="EXPAND" styleID="11" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="type3"></WordsStyle>
+            <WordsStyle name="IN QUOTE" styleID="5" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BLOCK COMMENT" styleID="21" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="tehex" desc="Tektronix extended HEX" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="DCDCCC" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1760,11 +1763,10 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="KEYWORD" styleID="3" fgColor="92CAF4" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="DFC47D" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1"></WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="8ABDCE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="">true false TRUE FALSE False True</WordsStyle>
-            <WordsStyle name="TEXT" styleID="8" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="REFERENCE" styleID="5" fgColor="B7703C" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="TEXT" styleID="7" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="DOCUMENT" styleID="6" fgColor="559CD6" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="ERROR" styleID="8" fgColor="EBD6EB" bgColor="1C1C1C" fontName="" fontStyle="2" fontSize=""></WordsStyle>
-            <WordsStyle name="REFERENCE" styleID="5" fgColor="804000" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="TEXT" styleID="7" fgColor="D69D85" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
         </LexerType>
         <LexerType name="errorlist" desc="ErrorList" ext="">
             <WordsStyle name="DEFAULT STYLE" styleID="0" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" fontSize=""></WordsStyle>
@@ -1825,6 +1827,181 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="MACRO FUNCTION" styleID="14" fgColor="C000C0" bgColor="FFFFFF" fontName="" fontStyle="2" fontSize="" keywordClass="type1"></WordsStyle>
             <WordsStyle name="FUNCTION" styleID="13" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="1" fontSize="" keywordClass="instre2"></WordsStyle>
             <WordsStyle name="STATEMENT" styleID="15" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" fontSize="" keywordClass="type2"></WordsStyle>
+        </LexerType>
+        <LexerType name="escseq" desc="Escape Sequence (ANSI)" ext="">
+            <WordsStyle name="DEFAULT on DEFAULT" styleID="0" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="0"></WordsStyle>
+            <WordsStyle name="BLACK on DEFAULT" styleID="1" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="RED on DEFAULT" styleID="2" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="GREEN on DEFAULT" styleID="3" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="YELLOW on DEFAULT" styleID="4" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BLUE on DEFAULT" styleID="5" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="MAGENTA on DEFAULT" styleID="6" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="CYAN on DEFAULT" styleID="7" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="WHITE on DEFAULT" styleID="8" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="DEFAULT on BLACK" styleID="9" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on BLACK" styleID="10" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on BLACK" styleID="11" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on BLACK" styleID="12" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on BLACK" styleID="13" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on BLACK" styleID="14" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on BLACK" styleID="15" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on BLACK" styleID="16" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on BLACK" styleID="17" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on RED" styleID="18" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on RED" styleID="19" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on RED" styleID="20" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on RED" styleID="21" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on RED" styleID="22" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on RED" styleID="23" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on RED" styleID="24" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on RED" styleID="25" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on RED" styleID="26" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on GREEN" styleID="27" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on GREEN" styleID="28" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on GREEN" styleID="29" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on GREEN" styleID="30" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on GREEN" styleID="40" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on GREEN" styleID="41" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on GREEN" styleID="42" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on GREEN" styleID="43" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on GREEN" styleID="44" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on YELLOW" styleID="45" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on YELLOW" styleID="46" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on YELLOW" styleID="47" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on YELLOW" styleID="48" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on YELLOW" styleID="49" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on YELLOW" styleID="50" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on YELLOW" styleID="51" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on YELLOW" styleID="52" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on YELLOW" styleID="53" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on BLUE" styleID="54" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on BLUE" styleID="55" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on BLUE" styleID="56" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on BLUE" styleID="57" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on BLUE" styleID="58" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on BLUE" styleID="59" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on BLUE" styleID="60" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on BLUE" styleID="61" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on BLUE" styleID="62" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on MAGENTA" styleID="63" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on MAGENTA" styleID="64" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on MAGENTA" styleID="65" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on MAGENTA" styleID="66" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on MAGENTA" styleID="67" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on MAGENTA" styleID="68" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on MAGENTA" styleID="69" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on MAGENTA" styleID="70" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on MAGENTA" styleID="71" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on CYAN" styleID="72" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on CYAN" styleID="73" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on CYAN" styleID="74" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on CYAN" styleID="75" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on CYAN" styleID="76" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on CYAN" styleID="77" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on CYAN" styleID="78" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on CYAN" styleID="79" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on CYAN" styleID="80" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="DEFAULT on WHITE" styleID="81" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BLACK on WHITE" styleID="82" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="RED on WHITE" styleID="83" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="GREEN on WHITE" styleID="84" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="YELLOW on WHITE" styleID="85" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BLUE on WHITE" styleID="86" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="MAGENTA on WHITE" styleID="87" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="CYAN on WHITE" styleID="88" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="WHITE on WHITE" styleID="89" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on DEFAULT" styleID="090" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="0"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on DEFAULT" styleID="091" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD RED on DEFAULT" styleID="092" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD GREEN on DEFAULT" styleID="093" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on DEFAULT" styleID="094" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD BLUE on DEFAULT" styleID="095" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on DEFAULT" styleID="096" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD CYAN on DEFAULT" styleID="097" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD WHITE on DEFAULT" styleID="098" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="1"></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on BLACK" styleID="099" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on BLACK" styleID="100" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on BLACK" styleID="101" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on BLACK" styleID="102" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on BLACK" styleID="103" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on BLACK" styleID="104" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on BLACK" styleID="105" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on BLACK" styleID="106" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on BLACK" styleID="107" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on RED" styleID="108" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on RED" styleID="109" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on RED" styleID="110" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on RED" styleID="111" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on RED" styleID="112" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on RED" styleID="113" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on RED" styleID="114" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on RED" styleID="115" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on RED" styleID="116" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on GREEN" styleID="117" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on GREEN" styleID="118" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on GREEN" styleID="119" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on GREEN" styleID="120" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on GREEN" styleID="121" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on GREEN" styleID="122" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on GREEN" styleID="123" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on GREEN" styleID="124" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on GREEN" styleID="125" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on YELLOW" styleID="126" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on YELLOW" styleID="127" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on YELLOW" styleID="128" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on YELLOW" styleID="129" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on YELLOW" styleID="130" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on YELLOW" styleID="131" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on YELLOW" styleID="132" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on YELLOW" styleID="133" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on YELLOW" styleID="134" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on BLUE" styleID="135" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on BLUE" styleID="136" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on BLUE" styleID="137" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on BLUE" styleID="138" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on BLUE" styleID="139" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on BLUE" styleID="140" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on BLUE" styleID="141" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on BLUE" styleID="142" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on BLUE" styleID="143" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on MAGENTA" styleID="144" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on MAGENTA" styleID="145" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on MAGENTA" styleID="146" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on MAGENTA" styleID="147" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on MAGENTA" styleID="148" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on MAGENTA" styleID="149" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on MAGENTA" styleID="150" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on MAGENTA" styleID="151" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on MAGENTA" styleID="152" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on CYAN" styleID="153" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on CYAN" styleID="154" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on CYAN" styleID="155" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on CYAN" styleID="156" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on CYAN" styleID="157" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on CYAN" styleID="158" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on CYAN" styleID="159" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on CYAN" styleID="160" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on CYAN" styleID="161" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD DEFAULT on WHITE" styleID="162" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize="" colorStyle="2"></WordsStyle>
+            <WordsStyle name="BOLD BLACK on WHITE" styleID="163" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD RED on WHITE" styleID="164" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD GREEN on WHITE" styleID="165" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD YELLOW on WHITE" styleID="166" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD BLUE on WHITE" styleID="167" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD MAGENTA on WHITE" styleID="168" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD CYAN on WHITE" styleID="169" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="BOLD WHITE on WHITE" styleID="170" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="Sequence Identifier" styleID="171" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="Sequence Unknown" styleID="172" fgColor="EEEEEE" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+        </LexerType>
+        <LexerType name="searchResult" desc="Search result" ext="">
+            <WordsStyle name="Default" styleID="0" fgColor="C8C8C8" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="Search Header" styleID="1" fgColor="569CD6" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="File Header" styleID="2" fgColor="92CAF4" bgColor="1C1C1C" fontName="" fontStyle="1" fontSize=""></WordsStyle>
+            <WordsStyle name="Line Number" styleID="3" fgColor="2B91AF" bgColor="1C1C1C" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="Hit Word" styleID="4" fgColor="C8C8C8" bgColor="113D6F" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="Selected Line" styleID="5" fgColor="C8C8C8" bgColor="000000" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="Current line background colour" styleID="6" fgColor="C8C8C8" bgColor="000000" fontStyle="0" fontSize="">bool long int char</WordsStyle>
         </LexerType>
     </LexerStyles>
     <GlobalStyles>

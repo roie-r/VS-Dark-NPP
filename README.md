@@ -18,23 +18,23 @@ Installation
 
 Screenshot
 ----------
-PYTHON  
-![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/python.png "PYTHON")  
-JSON  
-![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/json.png "JSON")  
-LUA  
-![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/lua.png "LUA")  
-CSV (For this, you will need the [`CSV Lint`](https://github.com/BdR76/CSVLint) plugin)  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/csv.png "CSV")  
-Javascript  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/javascript.png "Javascript")  
-HTML  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/html.png "HTML")  
-XML  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/xml.png "XML")  
-Registry  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/reg.png "Reg")  
-PowerShell  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/PowerShell.png "PowerShell")  
-C#  
-![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/C-sharp.png "C#")  
+PYTHON
+![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/python.png "PYTHON")
+JSON
+![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/json.png "JSON")
+LUA
+![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/lua.png "LUA")
+CSV (For this, you will need the [`CSV Lint`](https://github.com/BdR76/CSVLint) plugin)
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/csv.png "CSV")
+Javascript
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/javascript.png "Javascript")
+HTML
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/html.png "HTML")
+XML
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/xml.png "XML")
+Registry
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/reg.png "Reg")
+PowerShell
+![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/PowerShell.png "PowerShell")
+C#
+![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/cs.png "C#")
