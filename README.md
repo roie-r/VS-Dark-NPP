@@ -22,7 +22,7 @@ PYTHON
 ![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/python.png "PYTHON")  
 JSON  
 ![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/json.png "JSON")  
-LUA
+LUA  
 ![Screenshot](https://github.com/roie-r/VS-Dark-NPP/blob/master/Screenshots/lua.png "LUA")  
 CSV (For this, you will need the [`CSV Lint`](https://github.com/BdR76/CSVLint) plugin)  
 ![Screenshot](https://github.com/hellon8/VS2019-Dark-Npp/blob/master/Screenshots/csv.png "CSV")  
